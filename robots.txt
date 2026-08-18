@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-tygh0r.pulaucuan.org/sitemap.xml
